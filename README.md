@@ -7,8 +7,7 @@
 
 
 - 💬 Aspirante a Programador Full-Stack
-- 💬 Fluente em Inglês
 
-- 💬 Não estou atuando na área no momento, porém é de meu interesse.
+
 
 
